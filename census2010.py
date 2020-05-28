@@ -1,0 +1,1 @@
+allData = {'AL': {'Autauga': {'pop': 1912, 'tracts': 1}}}

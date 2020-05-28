@@ -1,0 +1,12 @@
+15/04/2020
+
+Automate The Boring Stuff Chapter 10
+	Debugging Programs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(Written in this format due to majority of content
+not being in standard code format.)
+
+Raising an exception = “Stop running the code in this function
+and move the program execution to the except statement.”
+>raise Exception('This is an error message.')
+if no try / except statements, will just display the error message
